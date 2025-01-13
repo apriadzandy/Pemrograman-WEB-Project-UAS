@@ -9,9 +9,6 @@
 - Nilai
 - KHS Mahasiswa
 
-## Release Date
-
-2025-01
 
 ## Default Account for testing
 
@@ -32,18 +29,18 @@ password:11111111
 1. **Clone Repository**
 
 ```bash
-
+git clone https://github.com/apriadzandy/Pemrograman-WEB-Project-UAS.git
 go to folder
 composer install
 npm install
-cp .env.example .env
+ganti .env.example to .env
 ```
 
 2. **Buka `.env` lalu ubah baris berikut sesuai dengan databasemu yang ingin dipakai**
 
 ```bash
 DB_PORT=3306
-DB_DATABASE=laravel
+DB_DATABASE=siak
 DB_USERNAME=root
 DB_PASSWORD=
 ```

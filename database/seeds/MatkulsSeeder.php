@@ -15,8 +15,8 @@ class MatkulsSeeder extends Seeder
     {
         DB::table('matkuls')->insert([
             'id' => 1,
-            'kode' => 'SI101',
-            'matkul' => 'Kalkulus 1',
+            'kode' => 'IF101',
+            'matkul' => 'Kalkulus ',
             'sks' => 2,
             'kategori' => 'Wajib',
             'smt' => 1,

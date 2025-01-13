@@ -16,7 +16,7 @@ class RuangansSeeder extends Seeder
         DB::table('ruangans')->insert([
             'id' => 1,
             'id_gedung' => 1,
-            'ruangan' => 'A1',
+            'ruangan' => 'R610',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s')
         ]);

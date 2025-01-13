@@ -16,8 +16,8 @@ class ProdisSeeder extends Seeder
         DB::table('prodis')->insert([
             'id' => 1,
             'id_fakultas' => 1,
-            'kode_prodi' => 'SI',
-            'prodi' => 'Sistem Informasi',
+            'kode_prodi' => 'IF',
+            'prodi' => 'INFORMATIKA',
             'ka_prodi' => '1',
             'jenjang' => 'S1',
             'created_at' => date('Y-m-d H:i:s'),

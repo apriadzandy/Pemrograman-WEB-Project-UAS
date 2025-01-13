@@ -15,7 +15,7 @@ class KelasSeeder extends Seeder
     {
         DB::table('kelas')->insert([
             'id' => 1,
-            'nama' => 'SI-A',
+            'nama' => 'INFORMATIKA A',
             'id_prodi' => 1,
             'id_dosen' => 1,
             'angkatan' => 2022,

@@ -15,7 +15,7 @@ class TaSeeder extends Seeder
     {
         DB::table('tahun_akademiks')->insert([
             'id' => 1,
-            'tahun_akademik' => '2022/2023',
+            'tahun_akademik' => '2025/2026',
             'semester' => 'Ganjil',
             'status' => 1,
             'created_at' => date('Y-m-d H:i:s'),
