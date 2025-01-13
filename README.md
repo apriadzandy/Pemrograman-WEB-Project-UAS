@@ -57,4 +57,9 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
-
+## **Autor**
+    Apriadzandy Putra : 202210370311204
+    Rauf Hafizh Asmenta : 202210370311209
+    Arya mandala putra : 202210370311183
+    Mohammad Satria Agung Rahmatullah : 202210370311200
+    Nilton is Marcal : 202210370311181
